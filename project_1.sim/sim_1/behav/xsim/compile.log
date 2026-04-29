@@ -1,0 +1,38 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/acc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module acc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/br.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module br
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/car_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module car_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/control_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/cpu_core.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_core
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/cpu_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datapath
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/debug_display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module debug_display
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/ir.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ir
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/main_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/mar.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mar
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/mbr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mbr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/micro_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module micro_ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/micro_sequencer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module micro_sequencer
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/seven_seg_driver.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seven_seg_driver
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/step_pulse.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module step_pulse
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/fpga/project/groupCPU/project_1/project_1.srcs/sim_1/new/tb_alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_alu

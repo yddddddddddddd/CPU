@@ -1,0 +1,25 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/fpga/project/groupCPU/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sim_1/new/tb_alu.v,1776925080,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sim_1/new/tb_main_memory.v,,tb_alu,,,,,,,,
+,,,,,,,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/acc.v,1776323831,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/alu.v,,acc,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/alu.v,1777372784,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/br.v,,alu,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/br.v,1776323823,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/car_reg.v,,br,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/car_reg.v,1776924130,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/control_memory.v,,car_reg,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/control_memory.v,1777462050,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/cpu_core.v,,control_memory,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/cpu_core.v,1777377844,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/cpu_top.v,,cpu_core,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/cpu_top.v,1776924240,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/datapath.v,,cpu_top,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/datapath.v,1777462456,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/debug_display.v,,datapath,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/debug_display.v,1776924260,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/ir.v,,debug_display,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/ir.v,1776323797,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/main_memory.v,,ir,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/main_memory.v,1777464040,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/mar.v,,main_memory,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/mar.v,1777287655,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/mbr.v,,mar,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/mbr.v,1777370036,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/micro_ctrl.v,,mbr,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/micro_ctrl.v,1777377844,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/micro_sequencer.v,,micro_ctrl,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/micro_sequencer.v,1776924167,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/pc.v,,micro_sequencer,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/pc.v,1776323777,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/seven_seg_driver.v,,pc,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/seven_seg_driver.v,1776924303,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/step_pulse.v,,seven_seg_driver,,,,,,,,
+D:/fpga/project/groupCPU/project_1/project_1.srcs/sources_1/new/step_pulse.v,1776924250,verilog,,D:/fpga/project/groupCPU/project_1/project_1.srcs/sim_1/new/tb_alu.v,,step_pulse,,,,,,,,
